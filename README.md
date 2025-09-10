@@ -1,3 +1,3 @@
 # portfolio
 
-View at [mariahjacobs.info](https://mariahjacobs.info/).
+View at [mariahjacobs.dev](https://mariahjacobs.dev/).
